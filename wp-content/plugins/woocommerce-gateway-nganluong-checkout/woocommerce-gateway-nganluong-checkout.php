@@ -108,7 +108,6 @@ function woocommerce_payment_nganluong_init()
                     'default' => 'vnd',
                     'description' => __('"vnd" or "usd"', 'woocommerce')
                 ),
-
                 'receiver_email' => array(
                     'title' => __('Merchant Emai Nhận Tiền', 'woocommerce'),
                     'type' => 'text',
